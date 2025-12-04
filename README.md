@@ -69,18 +69,18 @@
 <summary><strong>4. The Inquisition Cycle (Eisenhorn/Ravenor/Bequin) [Books 28-36]</strong> 🎧 ✅</summary>
 <br>
 
-**Eisenhorn Trilogy**
+#### **Eisenhorn Trilogy**
 28. **Xenos**
 29. **Malleus**
 30. **Hereticus**
 31. **The Magos** (Bridge Novel)
 
-**Ravenor Trilogy**
+#### **Ravenor Trilogy**
 32. **Ravenor**
 33. **Ravenor Returned**
 34. **Ravenor Rogue**
 
-**Bequin Trilogy**
+#### **Bequin Trilogy**
 35. **Pariah**
 36. **Penitent**
 *(Note: Book 3, 'Pandaemonium', is currently unreleased)*
@@ -90,24 +90,24 @@
 <summary><strong>5. Gaunt’s Ghosts [Books 37-52]</strong> 🎧 ✅</summary>
 <br>
 
-**The Founding**
+#### **The Founding**
 37. **First and Only**
 38. **Ghostmaker**
 39. **Necropolis**
 
-**The Saint**
+#### **The Saint**
 40. **Honour Guard**
 41. **The Guns of Tanith**
 42. **Straight Silver**
 43. **Sabbat Martyr**
 
-**The Lost**
+#### **The Lost**
 44. **Traitor General**
 45. **His Last Command**
 46. **The Armour of Contempt**
 47. **Only in Death**
 
-**The Victory**
+#### **The Victory**
 48. **Blood Pact**
 49. **Salvation's Reach**
 50. **The Warmaster**
