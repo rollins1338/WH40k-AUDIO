@@ -12,14 +12,14 @@
 *The foundational history of the Horus Heresy.*
 
 <details>
-<summary><strong>1. The Horus Heresy: The Opening [Books 1-5]</strong></summary>
+<summary><strong>1. The Horus Heresy: The Opening [Books 1-5] ✓</strong></summary>
 <br>
 
-1. **Horus Rising** (Dan Abnett)
-2. **False Gods** (Graham McNeill)
-3. **Galaxy in Flames** (Ben Counter)
-4. **The Flight of the Eisenstein** (James Swallow)
-5. **Fulgrim** (Graham McNeill)
+1. **Horus Rising** ✓ (Dan Abnett)
+2. **False Gods** ✓ (Graham McNeill)
+3. **Galaxy in Flames** ✓ (Ben Counter)
+4. **The Flight of the Eisenstein** ✓ (James Swallow)
+5. **Fulgrim** ✓ (Graham McNeill)
 </details>
 
 <details>
@@ -135,12 +135,12 @@
 </details>
 
 <details>
-<summary><strong>7. Night Lords Trilogy (Chaos Perspective) [Books 64-66]</strong></summary>
+<summary><strong>7. Night Lords Trilogy (Chaos Perspective) [Books 64-66] ✓</strong></summary>
 <br>
 
-64. **Soul Hunter**
-65. **Blood Reaver**
-66. **Void Stalker**
+64. **Soul Hunter** ✓
+65. **Blood Reaver** ✓
+66. **Void Stalker** ✓
 </details>
 
 ---
@@ -163,23 +163,23 @@
 <br>
 <em>The Custodes' perspective on the return of the Primarch.</em>
 
-70. **The Emperor's Legion**
-71. **The Regent's Shadow**
+70. **The Emperor's Legion** x
+71. **The Regent's Shadow** x
 </details>
 
 <details>
-<summary><strong>10. Dawn of Fire (The Indomitus Crusade) [Books 72-79]</strong></summary>
+<summary><strong>10. Dawn of Fire (The Indomitus Crusade) [Books 72-79] x </strong></summary>
 <br>
 <em>The main narrative of the current war.</em>
 
-72. **Avenging Son**
-73. **Gate of Bones**
-74. **The Wolftime**
-75. **Throne of Light**
-76. **The Iron Kingdom**
-77. **The Martyr's Tomb**
-78. **Sea of Souls**
-79. **Hand of Abaddon**
+72. **Avenging Son** ✓  
+73. **Gate of Bones** ✓
+74. **The Wolftime** ✓
+75. **Throne of Light** ✓
+76. **The Iron Kingdom** ✓
+77. **The Martyr's Tomb** ✓
+78. **Sea of Souls** ✓
+79. **Hand of Abaddon** x
 *(Note: Book 9, 'The Silent King', releases July 2025)*
 </details>
 
@@ -194,8 +194,9 @@
 </details>
 
 <details>
-<summary><strong>12. The Return of the Lion [Book 83] ✓</strong></summary>
+<summary><strong>12. The Return of the Lion and Fulgrim [Book 83, 84] ✓</strong></summary>
 <br>
 
 83. **The Lion: Son of the Forest** ✓
+84. **Fulgrim: The Perfect Son** ✓
 </details>
