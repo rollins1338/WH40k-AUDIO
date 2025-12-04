@@ -2,7 +2,7 @@
 
 **Total Count:** 83 Books (Major Narrative Arcs)  
 **Status:** Updated for 2024/2025  
-**Audiobook Availability:** ✅ = Audiobooks available for all titles in this section.
+**✓** = Added to Drive.
 
 ---
 
@@ -10,7 +10,7 @@
 *The foundational history of the Horus Heresy.*
 
 <details>
-<summary><strong>1. The Horus Heresy: The Opening [Books 1-5]</strong> 🎧 ✅</summary>
+<summary><strong>1. The Horus Heresy: The Opening [Books 1-5]</strong></summary>
 <br>
 
 1. **Horus Rising** (Dan Abnett)
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-<summary><strong>2. The Siege of Terra: The Finale [Books 6-15]</strong> 🎧 ✅</summary>
+<summary><strong>2. The Siege of Terra: The Finale [Books 6-15]</strong></summary>
 <br>
 <em>Must be read in this exact order.</em>
 
@@ -43,7 +43,7 @@
 *1,500 years after the Heresy.*
 
 <details>
-<summary><strong>3. The Beast Arises [Books 16-27]</strong> 🎧 ✅</summary>
+<summary><strong>3. The Beast Arises [Books 16-27]</strong></summary>
 <br>
 
 16. **I Am Slaughter**
@@ -66,7 +66,7 @@
 *The most popular "domestic" and military series.*
 
 <details>
-<summary><strong>4. The Inquisition Cycle (Eisenhorn/Ravenor/Bequin) [Books 28-36]</strong> 🎧 ✅</summary>
+<summary><strong>4. The Inquisition Cycle (Eisenhorn/Ravenor/Bequin) [Books 28-36]</strong></summary>
 <br>
 
 #### **Eisenhorn Trilogy**
@@ -87,7 +87,7 @@
 </details>
 
 <details>
-<summary><strong>5. Gaunt’s Ghosts [Books 37-52]</strong> 🎧 ✅</summary>
+<summary><strong>5. Gaunt’s Ghosts [Books 37-52]</strong></summary>
 <br>
 
 #### **The Founding**
@@ -116,7 +116,7 @@
 </details>
 
 <details>
-<summary><strong>6. Ciaphas Cain: Hero of the Imperium [Books 53-63]</strong> 🎧 ✅</summary>
+<summary><strong>6. Ciaphas Cain: Hero of the Imperium [Books 53-63]</strong></summary>
 <br>
 
 53. **For the Emperor**
@@ -133,7 +133,7 @@
 </details>
 
 <details>
-<summary><strong>7. Night Lords Trilogy (Chaos Perspective) [Books 64-66]</strong> 🎧 ✅</summary>
+<summary><strong>7. Night Lords Trilogy (Chaos Perspective) [Books 64-66]</strong></summary>
 <br>
 
 64. **Soul Hunter**
@@ -147,7 +147,7 @@
 *The current timeline: The Great Rift, The Return of Guilliman & The Lion.*
 
 <details>
-<summary><strong>8. Vaults of Terra (Terra Politics I) [Books 67-69]</strong> 🎧 ✅</summary>
+<summary><strong>8. Vaults of Terra (Terra Politics I) [Books 67-69]</strong></summary>
 <br>
 <em>The crisis on Terra immediately before the Rift opens.</em>
 
@@ -157,7 +157,7 @@
 </details>
 
 <details>
-<summary><strong>9. Watchers of the Throne (Terra Politics II) [Books 70-71]</strong> 🎧 ✅</summary>
+<summary><strong>9. Watchers of the Throne (Terra Politics II) [Books 70-71]</strong></summary>
 <br>
 <em>The Custodes' perspective on the return of the Primarch.</em>
 
@@ -166,7 +166,7 @@
 </details>
 
 <details>
-<summary><strong>10. Dawn of Fire (The Indomitus Crusade) [Books 72-79]</strong> 🎧 ✅</summary>
+<summary><strong>10. Dawn of Fire (The Indomitus Crusade) [Books 72-79]</strong></summary>
 <br>
 <em>The main narrative of the current war.</em>
 
@@ -182,18 +182,18 @@
 </details>
 
 <details>
-<summary><strong>11. Dark Imperium (The Plague War) [Books 80-82]</strong> 🎧 ✅</summary>
+<summary><strong>11. Dark Imperium (The Plague War) [Books 80-82] ✓</strong></summary>
 <br>
 <em>Guilliman vs. Mortarion.</em>
 
-80. **Dark Imperium**
-81. **Plague War**
-82. **Godblight**
+80. **Dark Imperium** ✓
+81. **Plague War** ✓
+82. **Godblight** ✓
 </details>
 
 <details>
-<summary><strong>12. The Return of the Lion [Book 83]</strong> 🎧 ✅</summary>
+<summary><strong>12. The Return of the Lion [Book 83] ✓</strong></summary>
 <br>
 
-83. **The Lion: Son of the Forest**
+83. **The Lion: Son of the Forest** ✓
 </details>
