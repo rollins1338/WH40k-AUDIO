@@ -2,8 +2,8 @@
 
 **Total Count:** 83 Books (Major Narrative Arcs)  
 **Status:** Updated for 2024/2025  
-**✓** = Added to Drive.
-**x** = Download from MaM.
+> **✓** = Added to Drive.
+> **x** = Download from MaM.
 
 ---
 
