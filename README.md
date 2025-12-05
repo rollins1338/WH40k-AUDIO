@@ -23,20 +23,20 @@
 </details>
 
 <details>
-<summary><strong>2. The Siege of Terra: The Finale [Books 6-15]</strong></summary>
+<summary><strong>2. The Siege of Terra: The Finale [Books 6-15] ✓</strong></summary>
 <br>
 <em>Must be read in this exact order.</em>
 
-6. **The Solar War** (John French)
-7. **The Lost and the Damned** (Guy Haley)
-8. **The First Wall** (Gav Thorpe)
-9. **Saturnine** (Dan Abnett)
-10. **Mortis** (John French)
-11. **Warhawk** (Chris Wraight)
-12. **Echoes of Eternity** (Aaron Dembski-Bowden)
-13. **The End and the Death: Volume I** (Dan Abnett)
-14. **The End and the Death: Volume II** (Dan Abnett)
-15. **The End and the Death: Volume III** (Dan Abnett)
+6. **The Solar War** (John French) ✓
+7. **The Lost and the Damned** (Guy Haley) ✓
+8. **The First Wall** (Gav Thorpe) ✓
+9. **Saturnine** (Dan Abnett) ✓
+10. **Mortis** (John French) ✓
+11. **Warhawk** (Chris Wraight) ✓
+12. **Echoes of Eternity** (Aaron Dembski-Bowden) ✓
+13. **The End and the Death: Volume I** (Dan Abnett) ✓
+14. **The End and the Death: Volume II** (Dan Abnett) ✓
+15. **The End and the Death: Volume III** (Dan Abnett) ✓
 </details>
 
 ---
@@ -45,21 +45,21 @@
 *1,500 years after the Heresy.*
 
 <details>
-<summary><strong>3. The Beast Arises [Books 16-27]</strong></summary>
+<summary><strong>3. The Beast Arises [Books 16-27] ✓</strong></summary>
 <br>
 
-16. **I Am Slaughter**
-17. **Predator, Prey**
-18. **The Emperor Expects**
-19. **The Last Wall**
-20. **Throneworld**
-21. **Echoes of the Long War**
-22. **The Hunt for Vulkan**
-23. **The Beast Must Die**
-24. **Watchers in Death**
-25. **The Last Son of Dorn**
-26. **Shadow of Ullanor**
-27. **The Beheading**
+16. **I Am Slaughter** ✓
+17. **Predator, Prey** ✓
+18. **The Emperor Expects** ✓
+19. **The Last Wall** ✓
+20. **Throneworld** ✓
+21. **Echoes of the Long War** ✓
+22. **The Hunt for Vulkan** ✓
+23. **The Beast Must Die** ✓
+24. **Watchers in Death** ✓
+25. **The Last Son of Dorn** ✓
+26. **Shadow of Ullanor** ✓
+27. **The Beheading** ✓
 </details>
 
 ---
