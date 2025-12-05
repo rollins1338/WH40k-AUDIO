@@ -1,4 +1,4 @@
-# Warhammer 40k Definitive Reading Order
+# Warhammer 40k Definitive Reading/Listening Order
 
 **Total Count:** 84 Books (Major Narrative Arcs)  
 **Status:** Updated for 2024/2025  
