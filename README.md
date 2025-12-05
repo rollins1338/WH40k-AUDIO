@@ -68,53 +68,53 @@
 *The most popular "domestic" and military series.*
 
 <details>
-<summary><strong>4. The Inquisition Cycle (Eisenhorn/Ravenor/Bequin) [Books 28-36]</strong></summary>
+<summary><strong>4. The Inquisition Cycle (Eisenhorn/Ravenor/Bequin) [Books 28-36] ✓</strong></summary>
 <br>
 
 #### **Eisenhorn Trilogy**
-28. **Xenos**
-29. **Malleus**
-30. **Hereticus**
-31. **The Magos** (Bridge Novel)
+28. **Xenos** ✓
+29. **Malleus** ✓
+30. **Hereticus** ✓
+31. **The Magos** (Bridge Novel) ✓
 
 #### **Ravenor Trilogy**
-32. **Ravenor**
-33. **Ravenor Returned**
-34. **Ravenor Rogue**
+32. **Ravenor** ✓
+33. **Ravenor Returned** ✓
+34. **Ravenor Rogue** ✓
 
 #### **Bequin Trilogy**
-35. **Pariah**
-36. **Penitent**
+35. **Pariah** ✓
+36. **Penitent** ✓
 *(Note: Book 3, 'Pandaemonium', is currently unreleased)*
 </details>
 
 <details>
-<summary><strong>5. Gaunt’s Ghosts [Books 37-52]</strong></summary>
+<summary><strong>5. Gaunt’s Ghosts [Books 37-52] ✓</strong></summary>
 <br>
 
-#### **The Founding**
-37. **First and Only**
-38. **Ghostmaker**
-39. **Necropolis**
+#### **The Founding** 
+37. **First and Only** ✓
+38. **Ghostmaker** ✓
+39. **Necropolis** ✓
 
-#### **The Saint**
-40. **Honour Guard**
-41. **The Guns of Tanith**
-42. **Straight Silver**
-43. **Sabbat Martyr**
+#### **The Saint** 
+40. **Honour Guard** ✓
+41. **The Guns of Tanith** ✓
+42. **Straight Silver** ✓
+43. **Sabbat Martyr** ✓
 
 #### **The Lost**
-44. **Traitor General**
-45. **His Last Command**
-46. **The Armour of Contempt**
-47. **Only in Death**
+44. **Traitor General** ✓
+45. **His Last Command** ✓
+46. **The Armour of Contempt** ✓
+47. **Only in Death** ✓
 
 #### **The Victory**
-48. **Blood Pact**
-49. **Salvation's Reach**
-50. **The Warmaster**
-51. **The Anarch**
-52. **The Vincula Insurgency** (Prequel/Ghost Dossier 1)
+48. **Blood Pact** ✓
+49. **Salvation's Reach** ✓
+50. **The Warmaster** ✓
+51. **The Anarch** ✓
+52. **The Vincula Insurgency** ✓ (Prequel/Ghost Dossier 1)
 </details>
 
 <details>
