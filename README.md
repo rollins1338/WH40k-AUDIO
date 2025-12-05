@@ -8,7 +8,7 @@
 
 ---
 
-### I. The Prequel Era (30k)
+### I. The Prequel Era (30k) ✓
 *The foundational history of the Horus Heresy.*
 
 <details>
@@ -41,7 +41,7 @@
 
 ---
 
-### II. The Inter-War Period (M32)
+### II. The Inter-War Period (M32) ✓
 *1,500 years after the Heresy.*
 
 <details>
@@ -64,7 +64,7 @@
 
 ---
 
-### III. The Classic Era (M41)
+### III. The Classic Era (M41) ✓
 *The most popular "domestic" and military series.*
 
 <details>
@@ -118,20 +118,20 @@
 </details>
 
 <details>
-<summary><strong>6. Ciaphas Cain: Hero of the Imperium [Books 53-63]</strong></summary>
+<summary><strong>6. Ciaphas Cain: Hero of the Imperium [Books 53-63] ✓</strong></summary>
 <br>
 
-53. **For the Emperor**
-54. **Caves of Ice**
-55. **The Traitor's Hand**
-56. **Death or Glory**
-57. **Duty Calls**
-58. **Cain's Last Stand**
-59. **The Emperor's Finest**
-60. **The Last Ditch**
-61. **The Greater Good**
-62. **Choose Your Enemies**
-63. **Vainglorious**
+53. **For the Emperor** ✓
+54. **Caves of Ice** ✓
+55. **The Traitor's Hand** ✓
+56. **Death or Glory** ✓
+57. **Duty Calls** ✓
+58. **Cain's Last Stand** ✓
+59. **The Emperor's Finest** ✓
+60. **The Last Ditch** ✓
+61. **The Greater Good** ✓
+62. **Choose Your Enemies** ✓
+63. **Vainglorious** ✓
 </details>
 
 <details>
