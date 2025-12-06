@@ -179,7 +179,7 @@
 77. **The Martyr's Tomb** ✓
 78. **Sea of Souls** ✓
 79. **Hand of Abaddon** ✓
-*(Note: Book 9, 'The Silent King', releases July 2025)*
+> The Silent King [Book 9] ✓
 </details>
 
 <details>
