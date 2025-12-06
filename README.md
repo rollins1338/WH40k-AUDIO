@@ -145,30 +145,30 @@
 
 ---
 
-### IV. The Modern Era (M42 - Era Indomitus)
+### IV. The Modern Era (M42 - Era Indomitus) ✓
 *The current timeline: The Great Rift, The Return of Guilliman & The Lion.*
 
 <details>
-<summary><strong>8. Vaults of Terra (Terra Politics I) [Books 67-69]</strong></summary>
+<summary><strong>8. Vaults of Terra (Terra Politics I) [Books 67-69] ✓</strong></summary>
 <br>
 <em>The crisis on Terra immediately before the Rift opens.</em>
 
-67. **The Carrion Throne**
-68. **The Hollow Mountain**
-69. **The Dark City**
+67. **The Carrion Throne** ✓
+68. **The Hollow Mountain** ✓
+69. **The Dark City** ✓
 </details>
 
 <details>
-<summary><strong>9. Watchers of the Throne (Terra Politics II) [Books 70-71]</strong></summary>
+<summary><strong>9. Watchers of the Throne (Terra Politics II) [Books 70-71] ✓</strong></summary>
 <br>
 <em>The Custodes' perspective on the return of the Primarch.</em>
 
-70. **The Emperor's Legion** x
-71. **The Regent's Shadow** x
+70. **The Emperor's Legion** ✓
+71. **The Regent's Shadow** ✓
 </details>
 
 <details>
-<summary><strong>10. Dawn of Fire (The Indomitus Crusade) [Books 72-79] x </strong></summary>
+<summary><strong>10. Dawn of Fire (The Indomitus Crusade) [Books 72-79] ✓</strong></summary>
 <br>
 <em>The main narrative of the current war.</em>
 
@@ -179,7 +179,7 @@
 76. **The Iron Kingdom** ✓
 77. **The Martyr's Tomb** ✓
 78. **Sea of Souls** ✓
-79. **Hand of Abaddon** x
+79. **Hand of Abaddon** ✓
 *(Note: Book 9, 'The Silent King', releases July 2025)*
 </details>
 
