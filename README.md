@@ -4,7 +4,6 @@
 **Status:** Updated for 2024/2025  
 > **✓** = Added to Drive.
 
-> **x** = Download from MaM.
 
 ---
 
